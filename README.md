@@ -33,13 +33,13 @@ I program and develop new skills in front-end technology and I'm crazy about tec
   [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](http://dobratechnologia.pl)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ela.wrobel@gmail.com)](mailto:ela.wrobel@gmail.com)
  
-
-<a href="https://github.com/jrgarciadev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elawrobel&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
-</a>
-
-
 ## Blog posts
 - [a11y dla programistów i nie tylko](https://sektor3-0.pl/blog/zamknij-oczy-i-znajdz-adres-sklepu-o-dostepnosci-w-sieci/)
 - [technologie przyszłości](https://sektor3-0.pl/blog/technologie-przyszlosci-co-dobrego-nas-czeka/)
 - [programujesz? dobre rady na początek](https://sektor3-0.pl/blog/chcesz-programowac-mam-dla-ciebie-kilka-rad-na-poczatek/)
+
+## Open Source Work Stats
+<a href="https://github.com/jrgarciadev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elawrobel&show_icons=true&card_width=400&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3&hide=contribs" />
+</a>
+
