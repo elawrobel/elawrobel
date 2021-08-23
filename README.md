@@ -29,7 +29,7 @@ I program and develop new skills in front-end technology and I'm crazy about tec
 
 ## Connect with me
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/elawrobel/)](https://www.linkedin.com/in/elawrobel/)
-  [![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ela_wrobel)
+  [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ela_wrobel)
   [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](http://dobratechnologia.pl)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ela.wrobel@gmail.com)](mailto:ela.wrobel@gmail.com)
  
